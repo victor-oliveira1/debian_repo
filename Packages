@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
 Installed-Size: 44926
 Depends: libreadline8, libssl3, libncursesw6, libsqlite3-0, libmagic1, libxcb1
-Filename: ./repo/nchat_5.15.26_amd64.deb
+Filename: ./deb/nchat_5.15.26_amd64.deb
 Size: 11544016
 MD5sum: 8918e17b20083cdcd3eb26f69e43f861
 SHA1: a052473c0f49bbdbf256db054c68538c51883bf4
@@ -22,7 +22,7 @@ Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
 Installed-Size: 1705
 Depends: libmbedtls21, libmbedx509-7, libreadline8t64, libmbedcrypto16, libfuse2t64, libboost-program-options1.83.0
-Filename: ./repo/pcloudcc_202603171433_amd64.deb
+Filename: ./deb/pcloudcc_202603171433_amd64.deb
 Size: 603516
 MD5sum: 6e143fd92f936cf32ba7d872d4bc84ef
 SHA1: d3240a517d28101d669a95997ea5ea8feaf5b810
