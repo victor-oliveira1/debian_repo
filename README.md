@@ -1,4 +1,7 @@
 # Debian Repository
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://victor-oliveira1.github.io/debian_repo)
+[![Debian](https://img.shields.io/badge/Debian-Repository-red)](https://victor-oliveira1.github.io/debian_repo)
+[![Architecture](https://img.shields.io/badge/amd64-supported-green)](#)
 
 Repositório APT para Debian mantido por Victor Oliveira.
 
