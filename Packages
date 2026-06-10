@@ -17,21 +17,20 @@ Description: Terminal-based Telegram / WhatsApp client
  Telegram and WhatsApp. It features a modern ncurses UI.
 
 Package: pcloudcc
-Version: 202603171433
+Version: 202606101439
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 1705
-Depends: libmbedtls21, libmbedx509-7, libreadline8t64, libmbedcrypto16, libfuse2t64, libboost-program-options1.83.0
-Filename: ./deb/pcloudcc_202603171433_amd64.deb
-Size: 603516
-MD5sum: 6e143fd92f936cf32ba7d872d4bc84ef
-SHA1: d3240a517d28101d669a95997ea5ea8feaf5b810
-SHA256: be85bdbe58dc2630d7f20db74766ad044931bd6ca041e2d6787f01c85b488c78
+Installed-Size: 1674
+Depends: libc6, libfuse3-4, libgcc-s1, libmbedcrypto16, libmbedtls21, libmbedx509-7, libreadline8t64, libsqlite3-0, libstdc++6, libtinfo6, libudev1, zlib1g
+Filename: ./deb/pcloudcc_202606101439_amd64.deb
+Size: 598452
+MD5sum: a1d55cb42a375b4440b0c79e2bedb2ff
+SHA1: feb7c992eed81516df39565d913271d628bbcfb4
+SHA256: 99d9eed41ee53a9d0001e8c1cca6d11781b5e1ace99a63dbde7efee0165821fc
 Section: net
 Priority: optional
 Multi-Arch: foreign
-Description: pcloudcc (cli)
- long description and info
- .
- second paragraph
+Description: Unofficial pCloud CLI client by LNeely
+  Command-line client for accessing and mounting pCloud storage on Linux.
+  Based on the pcloudcc project maintained by LNeely.
 
