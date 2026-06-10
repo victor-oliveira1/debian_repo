@@ -5,10 +5,10 @@ Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
 Installed-Size: 38812
 Depends: libreadline8, libssl3, libncursesw6, libsqlite3-0, libmagic1, libxcb1
 Filename: ./deb/nchat_5.15.26_amd64.deb
-Size: 10264584
-MD5sum: 11c97e7d275124b97d0b7ab67a6e72f9
-SHA1: 707c22ad8bfa5fbe70f88dba81b127ea7246ac1b
-SHA256: 117043905efa185bc7c786f943ea1b03aedd664af4ceea3664599586a158e6da
+Size: 10271328
+MD5sum: 4a5f9775d45d7f1cdfc3ff9c8655e19e
+SHA1: 935277b520f37cb854926007b9704cf4e51e194d
+SHA256: c2e6febbc469d7fceb9f94c51d52cfa547bca046862952118d626f6eb8b00876
 Section: net
 Priority: optional
 Multi-Arch: foreign
