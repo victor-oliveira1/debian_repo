@@ -1,0 +1,32 @@
+name: CI
+on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - 'deb/**.deb'
+
+  workflow_dispatch:
+jobs:
+  update-repo:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repository Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Package Index
+        run: |
+          apt install -y apt-utils dpkg-dev
+          cd debian_repo
+          dpkg-scanpackages . /dev/null > Packages
+          gzip -k -f Packages
+          apt-ftparchive release . > Release
+
+      - name: Commit e Push dos arquivos atualizados
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Updating Package Index"
+          file_pattern: 'debian_repo/Packages* debian_repo/Release'
