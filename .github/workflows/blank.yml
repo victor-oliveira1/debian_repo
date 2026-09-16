@@ -20,7 +20,6 @@ jobs:
       - name: Update Package Index
         run: |
           sudo apt install -y apt-utils dpkg-dev
-          cd debian_repo
           dpkg-scanpackages . /dev/null > Packages
           gzip -k -f Packages
           apt-ftparchive release . > Release
