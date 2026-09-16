@@ -1,4 +1,4 @@
-name: Update Package Index
+name: update-package-index
 on:
   push:
     branches: [ "main" ]
@@ -24,7 +24,7 @@ jobs:
           gzip -k -f Packages
           apt-ftparchive release . > Release
 
-      - name: Commit e Push dos arquivos atualizados
+      - name: Commit Updated Index
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Updating Package Index"
