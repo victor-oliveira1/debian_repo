@@ -1,4 +1,4 @@
-name: CI
+name: Update Package Index
 on:
   push:
     branches: [ "main" ]
