@@ -7,7 +7,7 @@ on:
 
   workflow_dispatch:
 jobs:
-  update-repo:
+  update-repo-index:
     runs-on: ubuntu-latest
 
     permissions:
@@ -19,7 +19,7 @@ jobs:
 
       - name: Update Package Index
         run: |
-          apt install -y apt-utils dpkg-dev
+          sudo apt install -y apt-utils dpkg-dev
           cd debian_repo
           dpkg-scanpackages . /dev/null > Packages
           gzip -k -f Packages
