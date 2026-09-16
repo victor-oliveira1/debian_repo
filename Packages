@@ -2,19 +2,19 @@ Package: nchat
 Version: 5.18.20
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 39626
+Installed-Size: 39703
 Depends: libreadline8, libssl3, libncursesw6, libsqlite3-0, libmagic1, libxcb1
 Filename: ./deb/nchat_5.18.20_amd64.deb
-Size: 10453464
-MD5sum: 8602d9b5c77cadf698f5f27c7bb68623
-SHA1: 05f8d524e349546c9b84777b530cfcc74f431dbb
-SHA256: 27cc75e378d1375140563ca36ae22be463968f5b5a50e0fa5e94c25930cb8cde
+Size: 10454640
+MD5sum: d1bd07d7b83c22a51bbe052c171568e6
+SHA1: 6274bd15e9c835376b51accdef8952cd2a336ade
+SHA256: 166f45c69f9cf7c6cc143460b608040d518a65592592e1840c8220c0a2ef6cad
 Section: net
 Priority: optional
 Multi-Arch: foreign
-Description: Terminal-based Telegram / WhatsApp client
- nchat is a terminal-based chat client with support for
- Telegram and WhatsApp. It features a modern ncurses UI.
+Description: Terminal-based Telegram and WhatsApp client
+ nchat is a terminal-based chat client with support for Telegram
+ and WhatsApp. It features a modern ncurses UI.
 
 Package: pcloudcc
 Version: 202606101439
