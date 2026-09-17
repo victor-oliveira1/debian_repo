@@ -1,3 +1,24 @@
+Package: clipsim
+Version: 0.0~git20260917.6b1a54c-1
+Architecture: amd64
+Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
+Installed-Size: 917
+Filename: ./deb/clipsim_0.0~git20260917.6b1a54c-1_amd64.deb
+Size: 293104
+MD5sum: 0c7128938ea8e6fded8e90a5dbb7dbb6
+SHA1: 96f6ad3810fb1fb2d706d55788d041a2f5893654
+SHA256: 6335b2bd224861f7cbfcdcc498be519787392a5b70bbb4e3863f68b7b25bd1ba
+Section: net
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/lucas-mior/clipsim
+Description: Simple and fast X clipboard manager written in C
+ clipsim is a lightweight and high-performance clipboard manager designed for
+ the X Window System (X11).
+ .
+ It preserves and manages your clipboard history efficiently with a minimal
+ resource footprint.
+
 Package: nchat
 Version: 5.18.20
 Architecture: amd64
