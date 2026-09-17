@@ -25,10 +25,10 @@ Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
 Installed-Size: 39572
 Filename: ./deb/nchat_5.18.20_amd64.deb
-Size: 10453444
-MD5sum: c1fc25cd02dfe3808d9ad27fd3d10f59
-SHA1: 649672a1f4dc4ec14e92622283880fa5361b1ced
-SHA256: d9c1006c8824f483fbebf39516faa6c16d03e8c7a68306674ad51ddd5aa627d3
+Size: 10452544
+MD5sum: a68292e06f9d4910c9c46a1fba5da2d2
+SHA1: ae455b9603a167048b9d398dfd2deaa1d3807783
+SHA256: 9b933bbbd545100c3a273ec9b019b92126272e42096e54035c5f6fd9b968167b
 Section: net
 Priority: optional
 Multi-Arch: foreign
@@ -37,16 +37,16 @@ Description: Terminal-based Telegram and WhatsApp client
  Telegram and WhatsApp. It features a modern ncurses UI.
 
 Package: pcloudcc
-Version: 0.0~git20260707T123504Z-1
+Version: 0.0~git20260917.93a99cd-1
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
 Installed-Size: 1657
 Depends: libc6 (>= 2.38), libfuse3-4 (>= 3.17.2), libgcc-s1 (>= 3.0), libmbedcrypto16 (>= 3.6.0), libmbedtls21 (>= 3.6.0), libmbedx509-7 (>= 3.6.0), libreadline8t64 (>= 6.0), libsqlite3-0 (>= 3.7.14), libstdc++6 (>= 13.1), libudev1 (>= 183), zlib1g (>= 1:1.1.4)
-Filename: ./deb/pcloudcc_0.0~git20260707T123504Z-1_amd64.deb
-Size: 590936
-MD5sum: aac38e91c54c99770a9ea67c733a1398
-SHA1: ee1f10f4c51ddcfaec81147803d94acdf198cb22
-SHA256: 1746686a724fb65e24d3fa59c5d29d17cf43005e750b9196b5928eb54e146b6b
+Filename: ./deb/pcloudcc_0.0~git20260917.93a99cd-1_amd64.deb
+Size: 590448
+MD5sum: 1d10921aa9f3ef37f6a97a683893453c
+SHA1: b5d41d6bcb53d36399b096e00a65696e7a701b6c
+SHA256: 17feba47f71cdfcc99e5a4d27195aefbaeec82f650fff32a3f9c769b234dce82
 Section: net
 Priority: optional
 Multi-Arch: foreign
