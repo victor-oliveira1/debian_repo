@@ -23,12 +23,12 @@ Package: filebrowser-quantum
 Version: 2.0.7-beta
 Architecture: armhf
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 19358
+Installed-Size: 20121
 Filename: ./deb/filebrowser-quantum_2.0.7-beta_armhf.deb
-Size: 19129600
-MD5sum: 8c670f59d3f0d8c383fa293dda5445b8
-SHA1: 85927038190d7151e1f330b6cf937d4f9333a66e
-SHA256: b3053fe71d02a02697bd406e5c9aa6a28a65f95a5249dd6ac312f0a695c20457
+Size: 19891348
+MD5sum: bfe21fea40eceecdeb0f82b7daf026c6
+SHA1: d6e5ed08f0ce732e6196c489af065a994ef4ed46
+SHA256: 2934bad104c9ffb02389da2f1c884888dd6c02b9acc244a0167839282e285e8d
 Section: utils
 Priority: optional
 Multi-Arch: foreign
