@@ -19,6 +19,24 @@ Description: Simple and fast X clipboard manager written in C
  It preserves and manages your clipboard history efficiently with a minimal
  resource footprint.
 
+Package: filebrowser-quantum
+Version: 2.0.7-beta
+Architecture: armhf
+Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
+Installed-Size: 19358
+Filename: ./deb/filebrowser-quantum_2.0.7-beta_armhf.deb
+Size: 19129600
+MD5sum: 8c670f59d3f0d8c383fa293dda5445b8
+SHA1: 85927038190d7151e1f330b6cf937d4f9333a66e
+SHA256: b3053fe71d02a02697bd406e5c9aa6a28a65f95a5249dd6ac312f0a695c20457
+Section: utils
+Priority: optional
+Multi-Arch: foreign
+Description: Web-based file manager (Quantum fork)
+ Filebrowser Quantum is a features-rich web file manager fork designed to
+ manage files directly through a clean web interface. It provides file
+ uploading, editing, previewing, user management, and custom commands execution.
+
 Package: nchat
 Version: 5.18.20
 Architecture: amd64
