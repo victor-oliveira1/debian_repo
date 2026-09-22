@@ -20,15 +20,15 @@ Description: Simple and fast X clipboard manager written in C
  resource footprint.
 
 Package: filebrowser-quantum
-Version: 2.0.7-beta
+Version: 2.0.8-beta
 Architecture: armhf
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 20121
-Filename: ./deb/filebrowser-quantum_2.0.7-beta_armhf.deb
-Size: 19891348
-MD5sum: bfe21fea40eceecdeb0f82b7daf026c6
-SHA1: d6e5ed08f0ce732e6196c489af065a994ef4ed46
-SHA256: 2934bad104c9ffb02389da2f1c884888dd6c02b9acc244a0167839282e285e8d
+Installed-Size: 20153
+Filename: ./deb/filebrowser-quantum_2.0.8-beta_armhf.deb
+Size: 19922808
+MD5sum: 992898f63e84d3938906c23878cbd367
+SHA1: 0489a53289489ef1db5771900ac6af6fb0076a3d
+SHA256: 6e31f41a2a140b4f50b008a1e2ed00f7e98da023c5d0b1d1752860b4a54c1757
 Section: utils
 Priority: optional
 Multi-Arch: foreign
@@ -73,16 +73,16 @@ Description: pcloudcc-lneely is an independent fork of the inactive pcloudcom/co
  It's used to mount pCloud folder as a local directory.
 
 Package: sofka
-Version: 0.28.3
+Version: 0.28.4
 Architecture: amd64
 Maintainer: Sofka contributors <nklmilojevic@users.noreply.github.com>
-Installed-Size: 33547
+Installed-Size: 33618
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2), ca-certificates
-Filename: ./deb/sofka_0.28.3_amd64.deb
-Size: 11665306
-MD5sum: 457c4fb9c723cda308e7ffd2fa7d6446
-SHA1: 856eb045959a078f624a7d2d8e2901577229fe8f
-SHA256: 3bdae998086cfaa90fb38c5a0df01df5fe3000bcdf8ee16fddf4ba59358048a1
+Filename: ./deb/sofka_0.28.4_amd64.deb
+Size: 11677868
+MD5sum: d0b110e92cc3936a642912a60ce40a0f
+SHA1: 46b0a00f1a6888afbd002ec7e0471bde38539c58
+SHA256: e688fc5906898e22f5e49e9590b78761307e254816b5255b4a9107bf079ae61f
 Section: utils
 Priority: optional
 Homepage: https://github.com/nklmilojevic/sofka
