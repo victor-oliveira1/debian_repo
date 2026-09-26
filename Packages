@@ -1,13 +1,13 @@
 Package: clipsim
-Version: 0.0~git20260924.3e362cb-1
+Version: 0.0~git20260926.4da495f-1
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 1042
-Filename: ./deb/clipsim_0.0~git20260924.3e362cb-1_amd64.deb
-Size: 328640
-MD5sum: be00cc03971a8c62a6bdf16dceaa58f1
-SHA1: e1fecc5cbdbc7411e0401ded6352c4848350fffa
-SHA256: edc11ba068e1fee1df6fa2db6d5dc4ebc72e5963e69cf219210504956f2473a0
+Installed-Size: 1052
+Filename: ./deb/clipsim_0.0~git20260926.4da495f-1_amd64.deb
+Size: 331320
+MD5sum: ca3f29d2dfc69b862974eeabf7ddcb33
+SHA1: f3171858ff060f64e5ba627aa31729998ac2b194
+SHA256: e3eefea1742fe11ab8f793887a37e5d76faa5694828264dd4aae223d223a84c3
 Section: net
 Priority: optional
 Multi-Arch: foreign
@@ -38,15 +38,15 @@ Description: Web-based file manager (Quantum fork)
  uploading, editing, previewing, user management, and custom commands execution.
 
 Package: nchat
-Version: 5.18.20
+Version: 5.19.18
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 39572
-Filename: ./deb/nchat_5.18.20_amd64.deb
-Size: 10452544
-MD5sum: a68292e06f9d4910c9c46a1fba5da2d2
-SHA1: ae455b9603a167048b9d398dfd2deaa1d3807783
-SHA256: 9b933bbbd545100c3a273ec9b019b92126272e42096e54035c5f6fd9b968167b
+Installed-Size: 39615
+Filename: ./deb/nchat_5.19.18_amd64.deb
+Size: 10555120
+MD5sum: 862221bb8345d31ac1851bddb1d59522
+SHA1: 23522016250eb9ef31580834783822a990e8b491
+SHA256: 6ca5f120e72548143f6a04bb9f684adfa5df05c967d714c35179b1e822028d9b
 Section: net
 Priority: optional
 Multi-Arch: foreign
