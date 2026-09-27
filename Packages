@@ -1,13 +1,13 @@
 Package: clipsim
-Version: 0.0~git20260926.4da495f-1
+Version: 0.0~git20260927.2f9891a-1
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 1052
-Filename: ./deb/clipsim_0.0~git20260926.4da495f-1_amd64.deb
-Size: 331320
-MD5sum: ca3f29d2dfc69b862974eeabf7ddcb33
-SHA1: f3171858ff060f64e5ba627aa31729998ac2b194
-SHA256: e3eefea1742fe11ab8f793887a37e5d76faa5694828264dd4aae223d223a84c3
+Installed-Size: 1072
+Filename: ./deb/clipsim_0.0~git20260927.2f9891a-1_amd64.deb
+Size: 337692
+MD5sum: fb108f98b755b59465f199e2ade3644c
+SHA1: 74a74d505ac0a90d69435ca6c1245b35e640f9d2
+SHA256: 27c2044d2ef6b094ae0ed1d46edbb97d9969ac542e3571a44c7931ab8d388fed
 Section: net
 Priority: optional
 Multi-Arch: foreign
@@ -20,15 +20,15 @@ Description: Simple and fast X clipboard manager written in C
  resource footprint.
 
 Package: filebrowser-quantum
-Version: 2.0.8-beta
+Version: 2.0.9-beta
 Architecture: armhf
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
 Installed-Size: 20153
-Filename: ./deb/filebrowser-quantum_2.0.8-beta_armhf.deb
-Size: 19922808
-MD5sum: 992898f63e84d3938906c23878cbd367
-SHA1: 0489a53289489ef1db5771900ac6af6fb0076a3d
-SHA256: 6e31f41a2a140b4f50b008a1e2ed00f7e98da023c5d0b1d1752860b4a54c1757
+Filename: ./deb/filebrowser-quantum_2.0.9-beta_armhf.deb
+Size: 19924268
+MD5sum: c215227620de8bf274117c1ba7b839f7
+SHA1: d44ee51fdff5e0d05b02859318d17671fbdab583
+SHA256: ef7835540213435a3522742b5533f2682bd1bf8e3685835e312f7973bcb3762a
 Section: utils
 Priority: optional
 Multi-Arch: foreign
@@ -73,16 +73,16 @@ Description: pcloudcc-lneely is an independent fork of the inactive pcloudcom/co
  It's used to mount pCloud folder as a local directory.
 
 Package: sofka
-Version: 0.29.2
+Version: 0.29.3
 Architecture: amd64
 Maintainer: Sofka contributors <nklmilojevic@users.noreply.github.com>
-Installed-Size: 33540
+Installed-Size: 33632
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2), ca-certificates
-Filename: ./deb/sofka_0.29.2_amd64.deb
-Size: 11678286
-MD5sum: 5f4572a14787202272fc7c48a905048c
-SHA1: 68f7280ae6d2a1cc32b311eea947ba0fce5b1ae1
-SHA256: 6410c80fbc3b696f2bcfe6e0dbe1f2b1e4a28c24e9cca6d59608a9deb9c877a3
+Filename: ./deb/sofka_0.29.3_amd64.deb
+Size: 11701796
+MD5sum: 4c0d1f57a79a16bd8aa1286ba8adae70
+SHA1: 673578cab2768668666707d37ee97a2ab5a2ada2
+SHA256: 402ab1787da010d4f90ba4ab3b42f9977d3a03575e4f28a4f524b5c8244c68d6
 Section: utils
 Priority: optional
 Homepage: https://github.com/nklmilojevic/sofka
