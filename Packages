@@ -1,13 +1,13 @@
 Package: clipsim
-Version: 0.0~git20260930.0624599-1
+Version: 0.0~git20261002.5d96bb8-1
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 1090
-Filename: ./deb/clipsim_0.0~git20260930.0624599-1_amd64.deb
-Size: 341132
-MD5sum: 0b1db6d5962197b935330badb6670e8a
-SHA1: f05e7a4da69ee3cd03f5f98a63845d7802da9a86
-SHA256: 17079d3e2e28582f5c2d00dd1a4fb65e030f379c87ba60f3d8bd7c1f63704d53
+Installed-Size: 1095
+Filename: ./deb/clipsim_0.0~git20261002.5d96bb8-1_amd64.deb
+Size: 341748
+MD5sum: 47b985908f92cada6504db2f81a45edc
+SHA1: 933b77c31f6c87b34eb5e5bd31e4fac8fb6fe245
+SHA256: 8339b928ba86add9b77e47da895d7c6a04ab26be64976e2d463db4c4cb61edb5
 Section: net
 Priority: optional
 Multi-Arch: foreign
@@ -73,16 +73,16 @@ Description: pcloudcc-lneely is an independent fork of the inactive pcloudcom/co
  It's used to mount pCloud folder as a local directory.
 
 Package: sofka
-Version: 0.29.6
+Version: 0.29.7
 Architecture: amd64
 Maintainer: Sofka contributors <nklmilojevic@users.noreply.github.com>
-Installed-Size: 34091
+Installed-Size: 34124
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2), ca-certificates
-Filename: ./deb/sofka_0.29.6_amd64.deb
-Size: 11878092
-MD5sum: 654c4aa8be90c26cc2b1dd2f2dec4bcd
-SHA1: 369d436652624c7136158bbcb83d6770e49a90f8
-SHA256: 432149e9cffd269b19917a0b2a0764410f47f633c4e2e123dcb625de20ae28b4
+Filename: ./deb/sofka_0.29.7_amd64.deb
+Size: 11893998
+MD5sum: 72018fa07a18cc98e9aa3727f1ac8eb9
+SHA1: 4bbfd353c3a2228485c139a7e0d0c40d150bf1e0
+SHA256: 029d300536411d95d67ef240d41610c4111dc3185823f9f43c002414af9623bb
 Section: utils
 Priority: optional
 Homepage: https://github.com/nklmilojevic/sofka
