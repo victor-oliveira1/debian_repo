@@ -37,6 +37,22 @@ Description: Web-based file manager (Quantum fork)
  manage files directly through a clean web interface. It provides file
  uploading, editing, previewing, user management, and custom commands execution.
 
+Package: mediamtx
+Version: 1.21.1
+Architecture: armhf
+Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
+Installed-Size: 62485
+Filename: ./deb/mediamtx_1.21.1_armhf.deb
+Size: 23573144
+MD5sum: 5a381b625592a3a4945a7c2d0f5072d6
+SHA1: c1966edde654d000d2e576505b3dae27acf84806
+SHA256: 249bb12686b14bc5724666ccee5708985776352a0e74e4a6f18c000f721316e9
+Section: net
+Priority: optional
+Multi-Arch: foreign
+Description: MediaMTX is a real-time media server and media proxy that
+ allows to publish, read, and proxy live video and audio streams.
+
 Package: nchat
 Version: 5.19.18
 Architecture: amd64
