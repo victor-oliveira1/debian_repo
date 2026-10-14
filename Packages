@@ -20,15 +20,15 @@ Description: Simple and fast X clipboard manager written in C
  resource footprint.
 
 Package: filebrowser-quantum
-Version: 2.1.1-beta
+Version: 2.1.2-beta
 Architecture: armhf
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 20301
-Filename: ./deb/filebrowser-quantum_2.1.1-beta_armhf.deb
-Size: 20026948
-MD5sum: 3a569e9b7121efb45057d4a3ddf038c1
-SHA1: fdba82af9942cdca3b633696076cbb2178f12cfd
-SHA256: 404d0ce8bf809625a9eb08112b7e78783711c9be49c13edc651ea747318dfd47
+Installed-Size: 20959
+Filename: ./deb/filebrowser-quantum_2.1.2-beta_armhf.deb
+Size: 20686164
+MD5sum: 783b8bf0bc49edae238b7b00e615aede
+SHA1: dfdbfad86ebd70ee15b03c5dd62c4bc1b38f641b
+SHA256: faa72e1e9a05439ab9fb29adcf18313c4bba32267986776864d9669e2c64eddf
 Section: utils
 Priority: optional
 Multi-Arch: foreign
