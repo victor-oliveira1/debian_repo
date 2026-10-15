@@ -89,16 +89,16 @@ Description: pcloudcc-lneely is an independent fork of the inactive pcloudcom/co
  It's used to mount pCloud folder as a local directory.
 
 Package: sofka
-Version: 0.31.8
+Version: 0.31.9
 Architecture: amd64
 Maintainer: Sofka contributors <nklmilojevic@users.noreply.github.com>
-Installed-Size: 36403
+Installed-Size: 36438
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2), ca-certificates
-Filename: ./deb/sofka_0.31.8_amd64.deb
-Size: 12805256
-MD5sum: 38d0b037dc8dd919b965a1a8ccdcc57a
-SHA1: ccfae4062502d47272f61a801b1b5e9c51ce8f3e
-SHA256: 856f878b77700d87cbbe713b09fe38033fe978bfa4a6d5293c1bda3b0b687594
+Filename: ./deb/sofka_0.31.9_amd64.deb
+Size: 12823252
+MD5sum: 0eddc2c3e6c48fe401abfb3859cccb3a
+SHA1: 40c7a0cce206aea88747af6e1434517fd699546a
+SHA256: 6bbc90146647fdbdd551d5dda043df10be8788eccbec9d50bf4ef2c2a226a0bd
 Section: utils
 Priority: optional
 Homepage: https://github.com/nklmilojevic/sofka
