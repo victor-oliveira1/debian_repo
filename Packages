@@ -38,15 +38,15 @@ Description: Web-based file manager (Quantum fork)
  uploading, editing, previewing, user management, and custom commands execution.
 
 Package: mediamtx
-Version: 1.21.2
+Version: 1.21.3
 Architecture: armhf
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 63453
-Filename: ./deb/mediamtx_1.21.2_armhf.deb
-Size: 24443788
-MD5sum: dddf1f18f11961e1ff7d1fd6d36b4e35
-SHA1: 5837e47ea6a54fc441151b5d882d8a370f9f35d3
-SHA256: 8b147552f933743e8c6be6a1196fbbf700f967a3bdb1f0842eb3d458263ffa35
+Installed-Size: 63789
+Filename: ./deb/mediamtx_1.21.3_armhf.deb
+Size: 24567732
+MD5sum: 08ef61aa08dd8c7a4cdbace8e7c3a202
+SHA1: 71f55e012b091dde752ca3b01bbb6b8739bd6b7c
+SHA256: ac1de90f9bae1e35812b6b991a4f7849916a4a2bf14654031819fe91eb94704f
 Section: net
 Priority: optional
 Multi-Arch: foreign
