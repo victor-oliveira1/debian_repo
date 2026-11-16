@@ -38,15 +38,15 @@ Description: Web-based file manager (Quantum fork)
  uploading, editing, previewing, user management, and custom commands execution.
 
 Package: mediamtx
-Version: 1.21.3
+Version: 1.21.4
 Architecture: armhf
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 63789
-Filename: ./deb/mediamtx_1.21.3_armhf.deb
-Size: 24567732
-MD5sum: 08ef61aa08dd8c7a4cdbace8e7c3a202
-SHA1: 71f55e012b091dde752ca3b01bbb6b8739bd6b7c
-SHA256: ac1de90f9bae1e35812b6b991a4f7849916a4a2bf14654031819fe91eb94704f
+Installed-Size: 63981
+Filename: ./deb/mediamtx_1.21.4_armhf.deb
+Size: 24656728
+MD5sum: 00059dabb3924b7ee73cad1e00b76018
+SHA1: a1cf09fdb90094f61261c439566d0e1af3d74a47
+SHA256: 219c76d344a203a97b0df11e060e125f682b52332fae7bf669090af5918ab476
 Section: net
 Priority: optional
 Multi-Arch: foreign
@@ -89,16 +89,16 @@ Description: pcloudcc-lneely is an independent fork of the inactive pcloudcom/co
  It's used to mount pCloud folder as a local directory.
 
 Package: sofka
-Version: 0.35.1
+Version: 0.36.0
 Architecture: amd64
 Maintainer: Sofka contributors <nklmilojevic@users.noreply.github.com>
-Installed-Size: 37370
+Installed-Size: 37478
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2), ca-certificates
-Filename: ./deb/sofka_0.35.1_amd64.deb
-Size: 13213222
-MD5sum: 77c5e4a787bc47db35e2b9871e2406b5
-SHA1: ee0e540d09734f32b0802707f24b60d676b4708e
-SHA256: 5b72bbc4d21d9bd59c7141a3efc21616d9ecc6aa6d3bc02d0fc6d0135edb0571
+Filename: ./deb/sofka_0.36.0_amd64.deb
+Size: 13233740
+MD5sum: 4004b120d636568f839c39721c2ec23d
+SHA1: 5dd860acc1d8118b05c839cb95340822bb959100
+SHA256: 175ffa224eef54c6c89814bdde2e9de29da5fcb120b98b226a15b3b22d631f9b
 Section: utils
 Priority: optional
 Homepage: https://github.com/nklmilojevic/sofka
