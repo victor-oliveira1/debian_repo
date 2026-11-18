@@ -1,13 +1,13 @@
 Package: clipsim
-Version: 0.0~git20261113.adce454-1
+Version: 0.0~git20261118.0a9f9dd-1
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
 Installed-Size: 1061
-Filename: ./deb/clipsim_0.0~git20261113.adce454-1_amd64.deb
-Size: 340300
-MD5sum: 265af0769fff719670d268cd5e0987e4
-SHA1: 0ac2f0978184dc2d57dc8c25135581d998cfbbb9
-SHA256: 2cb41a897e54fec406f82a7b51a57d27337ff1c24ed8d84e64a31ec381cded11
+Filename: ./deb/clipsim_0.0~git20261118.0a9f9dd-1_amd64.deb
+Size: 340768
+MD5sum: c8986e7b174385bcb8266e4ea61a7d8a
+SHA1: d25ed37ab5959859dfa0c15e8209123cf7411b9b
+SHA256: 1639524970e31aa9034a7153c2d89680344069491c81cfa3ba02739e7db0ecaa
 Section: net
 Priority: optional
 Multi-Arch: foreign
