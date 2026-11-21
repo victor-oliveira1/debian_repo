@@ -20,15 +20,15 @@ Description: Simple and fast X clipboard manager written in C
  resource footprint.
 
 Package: filebrowser-quantum
-Version: 2.1.5-beta
+Version: 2.1.6-beta
 Architecture: armhf
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 21226
-Filename: ./deb/filebrowser-quantum_2.1.5-beta_armhf.deb
-Size: 20953484
-MD5sum: ad413534d5f166e06402199cd6d24af0
-SHA1: e72fe625f4c54a351db8154028de943af65e6df6
-SHA256: 95ad9f01c10446e61f82daf168f65f7d7e5710963e7ee2da64299edb961ecd4a
+Installed-Size: 21236
+Filename: ./deb/filebrowser-quantum_2.1.6-beta_armhf.deb
+Size: 20962260
+MD5sum: 90e99c26016982d786b08b500d135d18
+SHA1: bfa8d1d9db633ac52ead1e41452e5e023fe69384
+SHA256: 55a5f231f9f62a8accae1ad9a0b62239cbf36f89dbaf66c268ee8cbb4b335d1e
 Section: utils
 Priority: optional
 Multi-Arch: foreign
@@ -54,15 +54,15 @@ Description: MediaMTX is a real-time media server and media proxy that
  allows to publish, read, and proxy live video and audio streams.
 
 Package: nchat
-Version: 5.19.18
+Version: 5.20.39
 Architecture: amd64
 Maintainer: Victor Oliveira <victor.oliveira@gmx.com>
-Installed-Size: 39615
-Filename: ./deb/nchat_5.19.18_amd64.deb
-Size: 10555120
-MD5sum: 862221bb8345d31ac1851bddb1d59522
-SHA1: 23522016250eb9ef31580834783822a990e8b491
-SHA256: 6ca5f120e72548143f6a04bb9f684adfa5df05c967d714c35179b1e822028d9b
+Installed-Size: 40268
+Filename: ./deb/nchat_5.20.39_amd64.deb
+Size: 10729792
+MD5sum: dd71cf8e9b2fec7dd2014ad495aced3c
+SHA1: d37badbd2d45e11bd0e467b424907fef9b8ffe81
+SHA256: 786cd6896da75034da0a4189eabb84c1d07c227166494aaec74a555b687bcb47
 Section: net
 Priority: optional
 Multi-Arch: foreign
